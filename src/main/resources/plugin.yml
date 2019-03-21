@@ -1,0 +1,11 @@
+name: CandyCraft-HideAndSeek
+author: GodTitan
+version: 1.0
+main: de.godtitan.hideandseek.HideAndSeek
+depend: [LibsDisguises]
+
+commands:
+  build:
+  setlocation:
+  start:
+  stats:
